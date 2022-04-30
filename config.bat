@@ -1,0 +1,30 @@
+set pythonpath=C:\Users\%username%\AppData\Local\Programs\Python\Python310
+set version=1.0.0-A
+
+set acceptation=Oui (1) ou Non (2)
+set restartfr=Souhaiter vous telecharger plusieur images sans avoir a relancer le script ?
+set timerfr=Combien de fois souhaiter vous que le script re demarre tout seul ?
+set timerfrer=Le re demarrage automatique ne peut pas etre inferieur a 1 recommencer !
+set dlzonefr=Souhaiter vous changer le repertoire de base ?
+set dlsetfr=Qu'elle repertoire souhaiter vous utiliser ?
+set dluserfr= Repertoire utiliser 
+set repfr=Repertoire non trouver, voulais vous que nous le creeont ?
+set urlfr=Qu'elle est l'url du DL ?
+set varenitfr=Qu'elle type de fichier utilise tu ? 
+set pixivfr1fr=(1) Pixiv/Fanbox/Patreon  
+set fantia2fr=(2) Fantia 
+set dltfr=il reste encore 
+
+set accept=Yes (1) or No (2)
+set reloaden=Wish to download you several images without having to relaunch the script ?
+set timeren=How many times do you want the script to restart on its own ?
+set timerener=The re-starting cannot be less than 1 start again !
+set dlzoneen=Wish to change the basic directory ?
+set dlseten=What do you repertoire want to use you ?
+set dluseren=Repertoire used
+set repen=Repertorie not found, wich you te let us create it ?
+set urlen=What is the url of the DL?
+set vareniten=What it type of file do you use ?
+set pixivfr1en=(1) Pixiv/Fanbox/Patreon  
+set fantia2en=(2) Fantia 
+set dlten=it remains 

@@ -49,7 +49,6 @@ if %lng%== 1 set lngu= fr & goto :start1
 if %lng%== 2 set lngu= en & goto :start1
 
 :start1
-call text.bat
 echo.
 echo.
 if %lngu%== fr echo %restartfr%
